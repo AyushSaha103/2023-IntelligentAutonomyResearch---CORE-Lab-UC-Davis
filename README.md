@@ -1,5 +1,5 @@
-# Intelligent Autonomy Research Projects (undertaken in CORE Laboratory @ UC Davis)
-Presented at 2023 URSCA Research Conference
+# Intelligent Autonomy Research Projects (led in CORE Laboratory @ UC Davis)
+### Presented at 2023 URSCA Research Conference
 
 ## PART 1
 ### Graph Temporal Neural Network for Traffic Forecasting
