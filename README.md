@@ -17,11 +17,11 @@ Finalization: Testing scripts developed in MATLAB to run control system in varie
 
 
 ## PART 2
-### Intelligent Algorithm for Optimization of Vehicle Travel
+### Graph Temporal Neural Network for Traffic Forecasting
 
-Concept: predict future traffic flow at various street intersections, using Graph Neural Network
+Concept: forecast traffic flow at various street intersections in METRLA Dataset, using 20+ minute forecast horizon, based on past traffic patterns
 
-Development: Deep Learning algorithms GTNN model and LSTM model implemented from scratch, in C++
+Development: Deep Learning algorithms GTNN and LSTM implemented from scratch, in C++
 
 Evaluation Results:
 
